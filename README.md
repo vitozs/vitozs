@@ -10,11 +10,12 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```PHP
-class Dev{
+class Desenvolvedor{
   private $nome = 'Vitor Nunes Chagas';
   private $idade = 17;
-  private $area = "Backend";
-  private $linguagens = ["JavaScript", "Php", "Sql"]; 
+  private $area = 'Backend';
+  private $experiencia = 'Júnior';
+  private $linguagens = ['JavaScript', 'PHP', 'SQL']; 
 
 }
 ```
