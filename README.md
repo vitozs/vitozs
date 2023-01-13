@@ -12,7 +12,7 @@
 ```PHP
 class Desenvolvedor{
     private $nome = 'Vitor Nunes Chagas';
-    private $area = 'Backend';
+    private $area = 'Fullstack';
     private $experiencia = 'Júnior';
     private $linguagens = ['JavaScript', 'PHP', 'SQL']; 
 }
