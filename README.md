@@ -12,8 +12,9 @@
 ```PHP
 class Desenvolvedor{
     private $nome = 'Vitor Nunes Chagas';
+    private $idade = 17;
     private $experiencia = 'Júnior';
-    private $linguagens = ['JavaScript', 'PHP', 'SQL']; 
+    private $linguagens = ['Javascript', 'PHP', 'SQL']
 }
 ```
 
